@@ -7,6 +7,9 @@
   "devDependencies": {
     "serverless-offline": "^8.8.0"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "serverless": {
     "app": "whatsapp-api",
     "org": "paulonogueira"
